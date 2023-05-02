@@ -1,0 +1,13 @@
+// $primary: #276fc2;
+// $secondary: #e8d21d;
+// $border-radius: 1px;
+
+// Boostrap Import
+@import '../node_modules/bootstrap/scss/bootstrap';
+
+// General Style Imports
+@import 'css/header';
+@import 'css/footer';
+
+// Body Section Imports
+@import 'css/body';
